@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assgimentscreen2</string>
+    <string name="connect_to_school">Connect To School</string>
+    <string name="login_with_email">LOGIN WITH EMAIL</string>
+    <string name="back">
+        By Proceeding,you agree to our <b> Terms of service</b> and<b> Privacy</b>
+                <b>             Policy</b>
+
+
+    </string>
+</resources>
