@@ -4,8 +4,13 @@
     <string name="login_with_email">LOGIN WITH EMAIL</string>
     <string name="back">
         By Proceeding,you agree to our <b> Terms of service</b> and<b> Privacy</b>
-                <b>             Policy</b>
+                <b> Policy</b>
 
 
     </string>
+    <string name="an_e_teching_sevice_from_school">An <b>e-Teching</b> Sevice from School</string>
+    <string name="todo">TODO</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="register"><b>REGISTER</b></string>
+    <string name="todo">TODO</string>
 </resources>
